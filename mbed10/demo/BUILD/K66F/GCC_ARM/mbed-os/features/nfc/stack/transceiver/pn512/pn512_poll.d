@@ -1,0 +1,27 @@
+BUILD/K66F/GCC_ARM/mbed-os/features/nfc/stack/transceiver/pn512/pn512_poll.o: \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_poll.c \
+ BUILD/K66F/GCC_ARM/mbed_config.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/nfc_common.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/nfc_errors.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/platform/nfc_debug.h \
+ /home/howard/ee2405/mbed-os/features/nfc/acore/acore/ac_macros.h \
+ /home/howard/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer.h \
+ /home/howard/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer_reader.h \
+ /home/howard/ee2405/mbed-os/features/nfc/acore/acore/ac_buffer_builder.h \
+ /home/howard/ee2405/mbed-os/features/nfc/acore/acore/ac_stream.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/transceiver.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/protocols.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/platform/nfc_transport.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/platform/nfc_scheduler.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_types.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_callback.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_poll.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_transceive.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_registers.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_rf.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_cmd.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/pn512/pn512_internal.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/transceiver_internal.h \
+ /home/howard/ee2405/mbed-os/features/nfc/stack/transceiver/transceiver.h

@@ -1,0 +1,17 @@
+{
+    "config": {
+        "wifi-ssid": {
+            "help": "WiFi SSID",
+            "value": "\"HowardHandsomeguy\""
+        },
+        "wifi-password": {
+            "help": "WiFi Password",
+            "value": "\"c32]267V\""
+        }
+    },
+    "target_overrides": {
+        "*": {
+            "platform.stdio-convert-newlines": true
+        }
+    }
+}
